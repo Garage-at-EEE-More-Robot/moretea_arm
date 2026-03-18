@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/servo_move.dir/MENU.cpp.o -o servo_move  /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.7.0 /home/aqid/SCServo_Linux/build/libSCServo.a 

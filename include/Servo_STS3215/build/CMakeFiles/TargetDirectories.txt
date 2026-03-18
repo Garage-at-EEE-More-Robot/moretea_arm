@@ -1,0 +1,3 @@
+/home/aqid/Servo_STS3215/build/CMakeFiles/servo_move.dir
+/home/aqid/Servo_STS3215/build/CMakeFiles/edit_cache.dir
+/home/aqid/Servo_STS3215/build/CMakeFiles/rebuild_cache.dir

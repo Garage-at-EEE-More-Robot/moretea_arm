@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/aqid/Servo_STS3215/build",
+  "command": "/usr/bin/g++  -I/home/aqid/SCServo_Linux -g -o CMakeFiles/servo_move.dir/MENU.cpp.o -c /home/aqid/Servo_STS3215/MENU.cpp",
+  "file": "/home/aqid/Servo_STS3215/MENU.cpp"
+}
+]

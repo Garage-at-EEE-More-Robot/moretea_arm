@@ -1,0 +1,4 @@
+trajectory:
+  - i: 0
+    servos:
+      6: 2093

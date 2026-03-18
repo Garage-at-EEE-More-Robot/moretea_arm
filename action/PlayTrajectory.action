@@ -1,0 +1,11 @@
+# Goal
+string yaml_file
+string mode         # "all", "arm", or "gripper"
+int32 load_limit    # Used for gripper torque-limited grasping
+---
+# Result
+bool success
+string message
+---
+# Feedback
+float32 progress
